@@ -1,4 +1,6 @@
-﻿public class Update(string game, string version, string url)
+﻿namespace PKGDownloader;
+
+public class Update(string game, string version, string url)
 {
     public string Game = game;
     public string Version = version;

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pkg_downloader": {
+      "commandName": "Project",
+      "workingDirectory": "G:\\RPCS3\\0.0.29-15809\\PKGDownloader"
+    }
+  }
+}
